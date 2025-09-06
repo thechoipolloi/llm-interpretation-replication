@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# API Keys and Secrets
+.env
+.env.local
+*.key
+config.ini
+secrets.json
+
+# Data files (if sensitive)
+# Uncomment if data should not be tracked
+# data/*.csv
+# data/*.json
+
+# Results and outputs
+results/*.png
+results/*.pdf
+results/*.json
+results/*.csv
+*.log
+
+# Model weights and large files
+*.pkl
+*.pth
+*.h5
+*.bin
+models/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.cache
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# LaTeX auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+*.synctex.gz
+*.fdb_latexmk
+
+# Zone identifiers (Windows)
+*:Zone.Identifier

@@ -1,4 +1,4 @@
-# Large Language Models as Unreliable Judges - Replication Code
+# Large Language Models Are Unreliable Legal Interpreters - Replication Code
 
 This repository contains the replication code for the paper analyzing the reliability of Large Language Models (LLMs) as judges for legal interpretation tasks.
 
@@ -204,7 +204,7 @@ If you use this code, please cite:
 
 ```bibtex
 @article{choi2025llm,
-  title={Large Language Models as Unreliable Judges},
+  title={Large Language Models Are Unreliable Legal Interpreters},
   author={Choi, Jonathan H.},
   journal={[Journal Name]},
   year={2025}
@@ -216,5 +216,6 @@ If you use this code, please cite:
 This code is released under the MIT License. See LICENSE file for details.
 
 ## Contact
+
 
 For questions or issues with the replication code, please open an issue on GitHub or contact [contact information].
